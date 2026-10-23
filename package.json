@@ -1,5 +1,5 @@
 {
-  "name": "@wmq199711180/dsh-pet-live2d",
+  "name": "dsh-pet-live2d-fix",
   "version": "3.3.3",
   "description": "Live2D 桌宠插件（官方桌面客户端修复版 fork）：自带 DS鲸鱼娘，为 DSH 挂一只可拖动、会跟随鼠标、能换动作与表情的 Live2D 宠物。",
   "icon": "./icon.png",

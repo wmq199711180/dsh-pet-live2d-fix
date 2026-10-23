@@ -1,4 +1,4 @@
-# NOTICE
+﻿# NOTICE
 
 本包是 [`dsh-pet-live2d`](https://github.com/A8Chann/dsh-pet-live2d) 的 fork。以下信息随包保留，
 不得删除或改写。
@@ -26,7 +26,7 @@
 
 1. `lib/index.js` — asset 路由支持 `?inline-textures=1`，把模型 JSON 里的贴图换写成 `data:` URL。
 2. `lib/client.js` — `dsh-app:` 协议下自动追加上述参数；`__ModuleLoader__` id 与 `PACKAGE_NAME`
-   改为 `@wmq199711180/dsh-pet-live2d`。
+   改为 `dsh-pet-live2d-fix`。
 3. `package.json` / `cordis.patch.yml` — 包名与插件行改为 scoped 名。
 
 除上述外，代码与资产与上游 3.3.3 一致。

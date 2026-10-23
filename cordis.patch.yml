@@ -5,4 +5,4 @@
 # lib/client.js).
 - insert:
     - id: live2d-pet
-      name: '@wmq199711180/dsh-pet-live2d'
+      name: 'dsh-pet-live2d-fix'

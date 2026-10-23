@@ -1,4 +1,4 @@
-# dsh-pet-live2d（桌面客户端修复版）
+﻿# dsh-pet-live2d（桌面客户端修复版）
 
 给 DeepSeek Harness 用的 Live2D 桌宠，自带 **DS鲸鱼娘**。
 
@@ -10,7 +10,7 @@
 ## 装它
 
 ```
-插件 → 添加插件 → @wmq199711180/dsh-pet-live2d → 安装 → 立即启用
+插件 → 添加插件 → dsh-pet-live2d-fix → 安装 → 立即启用
 ```
 
 装完**重启一次** DSH（客户端 bundle 不做热重载）。首次显示时宿主会去 Live2D 官方 CDN 取一次
